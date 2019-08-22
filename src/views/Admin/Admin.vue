@@ -1,5 +1,5 @@
 <template>
-    $END$
+    <router-view></router-view>
 </template>
 
 <script>
